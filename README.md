@@ -1,49 +1,115 @@
-# Hi 👋, I'm Kokiladevi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kokiladevi%20Amsaraj&fontSize=50&fontAlignY=40&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=60" />
+
+<h1 align="center">Hi 👋, I'm Kokiladevi</h1>
+
+<h3 align="center">
+AI & Data Science Student • Full Stack Developer • ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+EduLead+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Final+Year+AI+%26+Data+Science+Student;Building+EduLead+AI;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
-## 👩‍💻 About Me
+---
 
-🎓 Final Year AI & Data Science Student
+# 🚀 About Me
 
-🚀 Building EduLead AI – Student Inquiry Management CRM
+🎓 Final Year Artificial Intelligence & Data Science Student
 
-💡 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Data Analytics
+💻 Passionate about AI, Full Stack Development and Data Analytics
 
-## 🛠 Tech Stack
+🚀 Currently Building:
+- EduLead AI
+- AI Chatbots
+- CRM Applications
+- Data Science Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+🌱 Learning:
+- Generative AI
+- LLM Applications
+- Cloud Deployment
+- Advanced React
 
-## 🚀 Featured Projects
+---
 
-### EduLead AI
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,js,html,css,git,github,vscode,mysql" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 EduLead AI
 Student Inquiry Management & Admission CRM
 
-### AI Chatbot
-Intelligent chatbot using NLP
+## 🤖 AI Chatbot
+Smart conversational AI assistant
 
-### Student Management System
-Full-stack web application
+## 📊 Data Analytics Dashboard
+Interactive analytics with visual insights
 
-## 📊 GitHub Stats
+## 🎯 Student Management System
+Complete student lifecycle management
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Statistics
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+<p align="center">
 
-## 📫 Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-LinkedIn: Your Link
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-Portfolio: Your Link
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+---
+
+# 🏆 Achievements
+
+🏅 AI & Data Science Student
+
+🏅 Full Stack Developer
+
+🏅 Open Source Learner
+
+🏅 Building Real-World Projects
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+🌐 Portfolio: YOUR_PORTFOLIO
+
+📧 Email: YOUR_EMAIL
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+</p>
