@@ -120,32 +120,6 @@ Final Year Student
 
 ---
 
-# 📫 Connect With Me
-
-💼 LinkedIn
-
-YOUR_LINKEDIN
-
-🌐 Portfolio
-
-YOUR_PORTFOLIO
-
-📧 Email
-
-YOUR_EMAIL
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
-
-</p>
-
----
-
 # ⚡ Fun Fact
 
 "Technology can transform society when combined with innovation, integrity, and purpose."
