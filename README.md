@@ -80,22 +80,6 @@ Complete student lifecycle management
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
 # 🏆 Achievements
 
 🏅 AI & Data Science Student
